@@ -6699,3 +6699,52 @@ blockquote {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center; } }
+
+/* Language Toggle Styles */
+.lang-toggle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  gap: 8px;
+  margin-left: 20px;
+  padding: 5px 0; }
+
+.lang-btn {
+  background: transparent;
+  border: none;
+  color: inherit;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 4px 8px;
+  -webkit-transition: opacity 0.2s ease;
+  -o-transition: opacity 0.2s ease;
+  transition: opacity 0.2s ease;
+  opacity: 0.6;
+  font-family: inherit; }
+
+.lang-btn:hover {
+  opacity: 1; }
+
+.lang-btn.active {
+  opacity: 1;
+  font-weight: 700;
+  color: var(--primary-color, #ff6b6b); }
+
+.lang-separator {
+  opacity: 0.4;
+  font-size: 14px; }
+
+/* Mobile responsive */
+@media only screen and (max-width: 991px) {
+  .lang-toggle {
+    margin-left: 0;
+    margin-top: 15px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding: 10px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.1); } }

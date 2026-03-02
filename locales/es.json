@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "resume": "Resumen",
+    "services": "Servicios",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Jefferson P. Narvaez",
+    "title": "especialista en IA y desarrollador full stack",
+    "tagline": "Diseño sistemas que escalan y desarrollo soluciones end-to-end. Combino inteligencia artificial con implementación técnica para crear productos digitales robustos.",
+    "ctaContact": "Contáctame",
+    "stats": {
+      "experience": "Años de Experiencia",
+      "projects": "Proyectos Completados",
+      "satisfaction": "Sistemas Diseñados"
+    }
+  },
+  "about": {
+    "subtitle": "Acerca de Mí",
+    "heading": "Especialización en IA",
+    "headingHighlight": "y Desarrollo Full Stack",
+    "body": "Más de 8 años de experiencia combinando especialización en inteligencia artificial con desarrollo full stack. Diseño sistemas escalables con IA integrada y los implemento desde el código hasta el despliegue. Trabajo con Vue.js, React, Node.js, Python, modelos de ML, APIs de LLM, bases de datos relacionales y NoSQL, Docker, AWS y Kubernetes. Documento patrones de integración de IA, decisiones de diseño y mejores prácticas que impactan el negocio.",
+    "bullets": [
+      "Integración de IA en Sistemas",
+      "Desarrollo Full Stack End-to-End",
+      "Sistemas Distribuidos y Cloud-Native",
+      "Modelos de ML y APIs de LLM",
+      "Stack: Vue.js, React, Node.js, Python, AWS"
+    ]
+  },
+  "resume": {
+    "subtitle": "Mi Resumen",
+    "heading": "Experiencia",
+    "headingHighlight": "Real en Soluciones Técnicas",
+    "jobs": {
+      "job1": {
+        "years": "2024 - Actualidad",
+        "title": "Full Stack Developer",
+        "company": "Stefanini",
+        "description": "Desarrollo full stack con integración de IA. Implementación de soluciones escalables desde frontend hasta backend, trabajando con tecnologías modernas y mejores prácticas de ingeniería."
+      },
+      "job2": {
+        "years": "2019 - 2024",
+        "title": "Javascript Developer",
+        "company": "Lulosoft LLC",
+        "description": "Desarrollo de soluciones full stack escalables con integración de IA. Liderazgo técnico en decisiones de stack tecnológico y optimización de sistemas existentes."
+      },
+      "job3": {
+        "years": "2017 - 2019",
+        "title": "Software Analyst",
+        "company": "ITERIA SAS",
+        "description": "Análisis y diseño de sistemas con enfoque en integración de IA. Toma de decisiones técnicas estratégicas para optimizar flujos de trabajo y rendimiento."
+      },
+      "job4": {
+        "years": "2017 - 2017",
+        "title": "Mobile Developer",
+        "company": "LAE",
+        "description": "Desarrollo multiplataforma que estableció la base para integración de IA en sistemas distribuidos y aplicaciones nativas."
+      }
+    }
+  },
+  "services": {
+    "subtitle": "Servicios Populares",
+    "heading": "Servicios Especializados",
+    "headingHighlight": "Para Hacer Crecer Tu Negocio",
+    "items": {
+      "01": {
+        "title": "Integración de IA y Soluciones Aplicadas",
+        "description": "Integro inteligencia artificial en sistemas que escalan. Desde modelos de ML hasta APIs de LLM, con foco en valor de negocio e implementación práctica."
+      },
+      "02": {
+        "title": "Desarrollo Full Stack End-to-End",
+        "description": "Desarrollo soluciones completas desde frontend hasta backend. Implemento con Vue.js, React, Node.js, Python, bases de datos y APIs REST/GraphQL."
+      },
+      "03": {
+        "title": "Due Diligence Técnico y Auditorías",
+        "description": "Audito sistemas existentes, identifico riesgos técnicos y propongo estrategias de mejora. Evaluación de stack tecnológico, integración de IA y código."
+      },
+      "04": {
+        "title": "Sistemas Cloud-Native con IA (AWS/Docker/K8s)",
+        "description": "Diseño sistemas cloud-native escalables con IA integrada y los implemento. Migraciones, optimización de costos, CI/CD y estrategias de despliegue automatizado."
+      },
+      "05": {
+        "title": "Tech Evangelism y Cultura de Ingeniería",
+        "description": "Evangelizo buenas prácticas de ingeniería en equipos y comunidades. Capacitación técnica, code reviews y establecimiento de estándares."
+      },
+      "06": {
+        "title": "Arquitectura Real-Time y Performance en Móviles",
+        "description": "Diseño arquitecturas de sistemas en tiempo real optimizadas para aplicaciones móviles. Enfoque en baja latencia, sincronización de datos, WebSockets, y optimización de rendimiento para garantizar experiencias fluidas en dispositivos móviles."
+      }
+    }
+  },
+  "skills": {
+    "subtitle": "Mis Habilidades Técnicas",
+    "heading": "Conoce mis",
+    "headingHighlight": "Habilidades Técnicas y Experiencia",
+    "subheading": "Más de 8 años construyendo desde el código hasta la integración de IA. Explora mi expertise y descubre cómo puedo agregar valor a tus proyectos."
+  },
+  "projects": {
+    "subtitle": "Trabajos Recientes",
+    "heading": "Explora Algunos De Mis",
+    "headingHighlight": "Proyectos Populares",
+    "keatherland": {
+      "category": "E-commerce",
+      "name": "Keatherland",
+      "description": "Sistema escalable para plataforma e-commerce con integración de IA, optimización de rendimiento, gestión de estado avanzada y estrategia de caching distribuido. Sistema diseñado para manejar alto tráfico y transacciones concurrentes."
+    },
+    "charlesDelivery": {
+      "category": "Plataforma Web",
+      "name": "Charles Delivery",
+      "description": "Sistema en tiempo real para gestión de entregas con IA integrada. Implementación de WebSockets, optimización de queries y diseño de base de datos para tracking en tiempo real. Escalabilidad horizontal y alta disponibilidad."
+    },
+    "techSynergy": {
+      "category": "Landing Corporativa",
+      "name": "Tech Synergy Labs",
+      "description": "Landing page corporativa con integración de IA, optimización SEO, lazy loading y estrategia de assets. Sistema de CMS headless para gestión de contenido y integración con servicios externos."
+    }
+  },
+  "blog": {
+    "subtitle": "Investigaciones",
+    "heading": "Investigaciones y Diseños",
+    "readMore": "Leer más",
+    "post1": {
+      "title": "El Impacto de la IA en los Sistemas Críticos de los Países de Primer Mundo",
+      "excerpt": "Un análisis técnico y científico sobre cómo la inteligencia artificial está transformando los sistemas críticos de infraestructura en las naciones desarrolladas, con implicaciones para la seguridad nacional y la estabilidad económica.",
+      "date": "Enero 2026"
+    }
+  },
+  "contact": {
+    "subtitle": "Ponte en Contacto",
+    "heading": "Hablemos de tu",
+    "headingHighlight": "Próximo Proyecto",
+    "body": "Conecta conmigo para discutir tu próximo proyecto. Estoy listo para llevar tus ideas a la realidad con integración de IA y desarrollo full stack. Colaboremos para hacer de tu próximo proyecto un éxito.",
+    "credentials": [
+      "8+ Años de Experiencia",
+      "Especialista en IA & Full Stack",
+      "Especialista en IA Aplicada",
+      "Cloud-Native (AWS/Docker/K8s)"
+    ],
+    "social": {
+      "twitter": "Twitter (Ahora X)",
+      "github": "Github",
+      "linkedin": "LinkedIn"
+    }
+  },
+  "footer": {
+    "copyright": "Copyright @2026, JeffersonPNarvaez Todos los Derechos Reservados"
+  }
+}

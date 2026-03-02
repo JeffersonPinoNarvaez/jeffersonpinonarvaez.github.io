@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "resume": "Resume",
+    "services": "Services",
+    "skills": "Skills",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Jefferson P. Narvaez",
+    "title": "AI specialist and full stack developer",
+    "tagline": "I design systems that scale and develop end-to-end solutions. I combine artificial intelligence with technical implementation to build robust digital products.",
+    "ctaContact": "Contact me",
+    "stats": {
+      "experience": "Years Of Experience",
+      "projects": "Projects Complete",
+      "satisfaction": "Systems Designed"
+    }
+  },
+  "about": {
+    "subtitle": "About Me",
+    "heading": "AI Specialization",
+    "headingHighlight": "& Full Stack Development",
+    "body": "Over 8 years of experience combining AI specialization with full stack development. I design scalable systems with integrated AI and implement them from code to deployment. I work with Vue.js, React, Node.js, Python, ML models, LLM APIs, relational and NoSQL databases, Docker, AWS, and Kubernetes. I document AI integration patterns, design decisions, and best practices that impact business.",
+    "bullets": [
+      "AI Integration in Systems",
+      "End-to-End Full Stack Development",
+      "Distributed & Cloud-Native Systems",
+      "ML Models & LLM APIs",
+      "Stack: Vue.js, React, Node.js, Python, AWS"
+    ]
+  },
+  "resume": {
+    "subtitle": "My Resume",
+    "heading": "Real",
+    "headingHighlight": "Technical Solutions Experience",
+    "jobs": {
+      "job1": {
+        "years": "2024 - Present",
+        "title": "Full Stack Developer",
+        "company": "Stefanini",
+        "description": "Full stack development with AI integration. Implementation of scalable solutions from frontend to backend, working with modern technologies and engineering best practices."
+      },
+      "job2": {
+        "years": "2019 - 2024",
+        "title": "Javascript Developer",
+        "company": "Lulosoft LLC",
+        "description": "Development of scalable full stack solutions with AI integration. Technical leadership in technology stack decisions and optimization of existing systems."
+      },
+      "job3": {
+        "years": "2017 - 2019",
+        "title": "Software Analyst",
+        "company": "ITERIA SAS",
+        "description": "Analysis and design of systems with focus on AI integration. Strategic technical decision-making to optimize workflows and performance."
+      },
+      "job4": {
+        "years": "2017 - 2017",
+        "title": "Mobile Developer",
+        "company": "LAE",
+        "description": "Cross-platform development that established the foundation for AI integration in distributed systems and native applications."
+      }
+    }
+  },
+  "services": {
+    "subtitle": "Popular Services",
+    "heading": "Specialized Services",
+    "headingHighlight": "to Help Your Business Grow",
+    "items": {
+      "01": {
+        "title": "AI Integration & Applied Solutions",
+        "description": "I integrate artificial intelligence into systems that scale. From ML models to LLM APIs, with focus on business value and practical implementation."
+      },
+      "02": {
+        "title": "End-to-End Full Stack Development",
+        "description": "I develop complete solutions from frontend to backend. I implement with Vue.js, React, Node.js, Python, databases, and REST/GraphQL APIs."
+      },
+      "03": {
+        "title": "Tech Due Diligence & Audits",
+        "description": "I audit existing systems, identify technical risks, and propose improvement strategies. Technology stack, AI integration, and code evaluation."
+      },
+      "04": {
+        "title": "Cloud-Native Systems with AI (AWS/Docker/K8s)",
+        "description": "I design scalable cloud-native systems with integrated AI and implement them. Migrations, cost optimization, CI/CD, and automated deployment strategies."
+      },
+      "05": {
+        "title": "Tech Evangelism & Engineering Culture",
+        "description": "I evangelize engineering best practices in teams and communities. Technical training, code reviews, and establishment of standards."
+      },
+      "06": {
+        "title": "Real-Time Architecture & Mobile Performance",
+        "description": "I design real-time system architectures optimized for mobile applications. Focus on low latency, data synchronization, WebSockets, and performance optimization to ensure smooth experiences on mobile devices."
+      }
+    }
+  },
+  "skills": {
+    "subtitle": "My Technical Skills",
+    "heading": "Check out my",
+    "headingHighlight": "Tech Skills & Experience",
+    "subheading": "Over 8 years building from code to AI integration. Dive deeper into my expertise and discover how I can add value to your projects."
+  },
+  "projects": {
+    "subtitle": "Latest Works",
+    "heading": "Explore Some Of My Popular",
+    "headingHighlight": "Projects",
+    "keatherland": {
+      "category": "E-commerce",
+      "name": "Keatherland",
+      "description": "Scalable system for e-commerce platform with AI integration, performance optimization, advanced state management, and distributed caching strategy. System designed to handle high traffic and concurrent transactions."
+    },
+    "charlesDelivery": {
+      "category": "Web Platform",
+      "name": "Charles Delivery",
+      "description": "Real-time system for delivery management with integrated AI. WebSocket implementation, query optimization, and database design for real-time tracking. Horizontal scalability and high availability."
+    },
+    "techSynergy": {
+      "category": "Corporate Landing",
+      "name": "Tech Synergy Labs",
+      "description": "Corporate landing page with AI integration, SEO optimization, lazy loading, and asset strategy. Headless CMS system for content management and integration with external services."
+    }
+  },
+  "blog": {
+    "subtitle": "Research",
+    "heading": "Research & Designs",
+    "readMore": "Read more",
+    "post1": {
+      "title": "The Impact of AI on Critical Systems in First World Countries",
+      "excerpt": "A technical and scientific analysis on how artificial intelligence is transforming critical infrastructure systems in developed nations, with implications for national security and economic stability.",
+      "date": "January 2026"
+    }
+  },
+  "contact": {
+    "subtitle": "Get In Touch",
+    "heading": "Let's Talk For your",
+    "headingHighlight": "Next Projects",
+    "body": "Get in touch with me to discuss your upcoming projects. I am ready to bring your ideas to life with AI integration and full stack development. Let's collaborate to make your next project a success.",
+    "credentials": [
+      "8+ Years Of Experience",
+      "AI Specialist & Full Stack",
+      "Applied AI Specialist",
+      "Cloud-Native (AWS/Docker/K8s)"
+    ],
+    "social": {
+      "twitter": "Twitter (Now X)",
+      "github": "Github",
+      "linkedin": "LinkedIn"
+    }
+  },
+  "footer": {
+    "copyright": "Copyright @2026, JeffersonPNarvaez All Rights Reserved"
+  }
+}
