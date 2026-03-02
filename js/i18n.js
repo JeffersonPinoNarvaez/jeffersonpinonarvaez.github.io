@@ -36,7 +36,7 @@
                 subtitle: "Acerca de Mí",
                 heading: "Especialización en IA",
                 headingHighlight: "y Desarrollo Full Stack",
-                body: "Más de 8 años de experiencia combinando especialización en inteligencia artificial con desarrollo full stack. Diseño sistemas escalables con IA integrada y los implemento desde el código hasta el despliegue. Trabajo con Vue.js, React, Node.js, Python, modelos de ML, APIs de LLM, bases de datos relacionales y NoSQL, Docker, AWS y Kubernetes. Documento patrones de integración de IA, decisiones de diseño y mejores prácticas que impactan el negocio.",
+                body: "Más de 8 años de experiencia combinando especialización en inteligencia artificial con desarrollo full stack. Diseño sistemas escalables con IA integrada y los implemento desde el código hasta el despliegue. Trabajo con Vue.js, React, Node.js, Python, modelos de ML, APIs de LLM, bases de datos relacionales y NoSQL, Docker, AWS y Kubernetes. Documento patrones de integración de IA, decisiones de diseño y mejores prácticas que optimizan sistemas y generan valor técnico.",
                 bullets: [
                     "Integración de IA en Sistemas",
                     "Desarrollo Full Stack End-to-End",
@@ -79,11 +79,11 @@
             services: {
                 subtitle: "Servicios Populares",
                 heading: "Servicios Especializados",
-                headingHighlight: "Para Hacer Crecer Tu Negocio",
+                headingHighlight: "Conocimientos Especializados",
                 items: {
                     "01": {
                         title: "Integración de IA y Soluciones Aplicadas",
-                        description: "Integro inteligencia artificial en sistemas que escalan. Desde modelos de ML hasta APIs de LLM, con foco en valor de negocio e implementación práctica."
+                        description: "Integro inteligencia artificial en sistemas que escalan. Desde modelos de ML hasta APIs de LLM, con foco en implementación práctica y resultados técnicos."
                     },
                     "02": {
                         title: "Desarrollo Full Stack End-to-End",
@@ -191,7 +191,7 @@
                 subtitle: "About Me",
                 heading: "AI Specialization",
                 headingHighlight: "& Full Stack Development",
-                body: "Over 8 years of experience combining AI specialization with full stack development. I design scalable systems with integrated AI and implement them from code to deployment. I work with Vue.js, React, Node.js, Python, ML models, LLM APIs, relational and NoSQL databases, Docker, AWS, and Kubernetes. I document AI integration patterns, design decisions, and best practices that impact business.",
+                body: "Over 8 years of experience combining AI specialization with full stack development. I design scalable systems with integrated AI and implement them from code to deployment. I work with Vue.js, React, Node.js, Python, ML models, LLM APIs, relational and NoSQL databases, Docker, AWS, and Kubernetes. I document AI integration patterns, design decisions, and best practices that optimize systems and generate technical value.",
                 bullets: [
                     "AI Integration in Systems",
                     "End-to-End Full Stack Development",
@@ -234,11 +234,11 @@
             services: {
                 subtitle: "Popular Services",
                 heading: "Specialized Services",
-                headingHighlight: "to Help Your Business Grow",
+                headingHighlight: "Specialized Expertise",
                 items: {
                     "01": {
                         title: "AI Integration & Applied Solutions",
-                        description: "I integrate artificial intelligence into systems that scale. From ML models to LLM APIs, with focus on business value and practical implementation."
+                        description: "I integrate artificial intelligence into systems that scale. From ML models to LLM APIs, with focus on practical implementation and technical results."
                     },
                     "02": {
                         title: "End-to-End Full Stack Development",
