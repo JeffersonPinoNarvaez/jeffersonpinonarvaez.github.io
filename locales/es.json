@@ -7,7 +7,8 @@
     "skills": "Habilidades",
     "projects": "Proyectos",
     "blog": "Blog",
-    "contact": "Contacto"
+    "contact": "Contacto",
+    "research": "Investigaciones"
   },
   "hero": {
     "greeting": "Hola, soy",
@@ -130,6 +131,21 @@
       "title": "El Impacto de la IA en los Sistemas Críticos de los Países de Primer Mundo",
       "excerpt": "Un análisis técnico y científico sobre cómo la inteligencia artificial está transformando los sistemas críticos de infraestructura en las naciones desarrolladas, con implicaciones para la seguridad nacional y la estabilidad económica.",
       "date": "Enero 2026"
+    }
+  },
+  "featuredApps": {
+    "subtitle": "Proyectos",
+    "heading": "Productos digitales construidos para",
+    "headingHighlight": "resolver necesidades reales",
+    "intro": "Este espacio reúne proyectos de distintas categorías: IA aplicada, productividad, automatización y herramientas para talento digital, diseñados y desplegados end-to-end.",
+    "visitCta": "Ver proyecto",
+    "cvMatch": {
+      "title": "CV Match AI",
+      "description": "Plataforma para ranking inteligente de CVs frente a una vacante. Optimiza la preselección y acelera decisiones de reclutamiento con análisis comparativo inmediato."
+    },
+    "interviewCoach": {
+      "title": "Interview Coach AI",
+      "description": "Asistente inteligente para preparación de entrevistas técnicas y de comportamiento. Entrena respuestas, mejora narrativa profesional y eleva la confianza del candidato."
     }
   },
   "contact": {

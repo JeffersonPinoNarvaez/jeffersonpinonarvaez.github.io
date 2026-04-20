@@ -16,6 +16,7 @@
                 resume: "Resumen",
                 services: "Servicios",
                 skills: "Habilidades",
+                research: "Investigaciones",
                 projects: "Proyectos",
                 blog: "Blog",
                 contact: "Contacto"
@@ -143,6 +144,21 @@
                     date: "Enero 2026"
                 }
             },
+            featuredApps: {
+                subtitle: "Proyectos",
+                heading: "Productos digitales construidos para",
+                headingHighlight: "resolver necesidades reales",
+                intro: "Este espacio reúne proyectos de distintas categorías: IA aplicada, productividad, automatización y herramientas para talento digital, diseñados y desplegados end-to-end.",
+                visitCta: "Ver proyecto",
+                cvMatch: {
+                    title: "CV Match AI",
+                    description: "Plataforma para ranking inteligente de CVs frente a una vacante. Optimiza la preselección y acelera decisiones de reclutamiento con análisis comparativo inmediato."
+                },
+                interviewCoach: {
+                    title: "Interview Coach AI",
+                    description: "Asistente inteligente para preparación de entrevistas técnicas y de comportamiento. Entrena respuestas, mejora narrativa profesional y eleva la confianza del candidato."
+                }
+            },
             contact: {
                 subtitle: "Ponte en Contacto",
                 heading: "Hablemos de tu",
@@ -171,6 +187,7 @@
                 resume: "Resume",
                 services: "Services",
                 skills: "Skills",
+                research: "Research",
                 projects: "Projects",
                 blog: "Blog",
                 contact: "Contact"
@@ -296,6 +313,21 @@
                     title: "The Impact of AI on Critical Systems in First World Countries",
                     excerpt: "A technical and scientific analysis on how artificial intelligence is transforming critical infrastructure systems in developed nations, with implications for national security and economic stability.",
                     date: "January 2026"
+                }
+            },
+            featuredApps: {
+                subtitle: "Projects",
+                heading: "Digital products built to",
+                headingHighlight: "solve real-world needs",
+                intro: "This section showcases projects across multiple categories: applied AI, productivity, automation, and talent-focused tools, designed and deployed end-to-end.",
+                visitCta: "View project",
+                cvMatch: {
+                    title: "CV Match AI",
+                    description: "Platform for intelligent CV ranking against a job opening. It streamlines candidate pre-screening and accelerates recruiting decisions with instant comparative analysis."
+                },
+                interviewCoach: {
+                    title: "Interview Coach AI",
+                    description: "Intelligent assistant for technical and behavioral interview preparation. It trains responses, improves professional storytelling, and boosts candidate confidence."
                 }
             },
             contact: {
