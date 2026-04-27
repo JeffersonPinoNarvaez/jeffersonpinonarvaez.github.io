@@ -35,15 +35,15 @@
             },
             about: {
                 subtitle: "Acerca de Mí",
-                heading: "Especialización en IA",
-                headingHighlight: "y Desarrollo Full Stack",
-                body: "Más de 8 años de experiencia combinando especialización en inteligencia artificial con desarrollo full stack. Diseño sistemas escalables con IA integrada y los implemento desde el código hasta el despliegue. Trabajo con Vue.js, React, Node.js, Python, modelos de ML, APIs de LLM, bases de datos relacionales y NoSQL, Docker, AWS y Kubernetes. Documento patrones de integración de IA, decisiones de diseño y mejores prácticas que optimizan sistemas y generan valor técnico.",
+                heading: "Full Stack AI",
+                headingHighlight: "de producto a producción",
+                body: "Más de 8 años construyendo software end-to-end con IA en el centro del diseño: experiencias en Vue.js, React y React Native, servicios en Node.js, Python y Java, datos relacionales y NoSQL, y despliegues cloud-native en AWS con Docker y Kubernetes. Orquesto RAG, embeddings y APIs de LLM con la misma rigurosidad que cualquier dominio de negocio: contratos estables, observabilidad, costos/latencia bajo control y documentación que equipos puedan evolucionar sin sorpresas.",
                 bullets: [
-                    "Integración de IA en Sistemas",
-                    "Desarrollo Full Stack End-to-End",
-                    "Sistemas Distribuidos y Cloud-Native",
-                    "Modelos de ML y APIs de LLM",
-                    "Stack: Vue.js, React, Node.js, Python, AWS"
+                    "Full Stack AI: UI, APIs y modelos en un solo hilo de entrega",
+                    "RAG, embeddings, LLMs y datos transaccionales coherentes",
+                    "Cloud-native, CI/CD y operación con métricas y alertas",
+                    "Calidad, seguridad y gobierno del ciclo de vida de la IA aplicada",
+                    "Stack: Vue, React, RN, Node, Python, Java · AWS · Docker · K8s"
                 ]
             },
             resume: {
@@ -78,33 +78,33 @@
                 }
             },
             services: {
-                subtitle: "Servicios Populares",
-                heading: "Servicios Especializados",
-                headingHighlight: "Conocimientos Especializados",
+                subtitle: "Líneas de trabajo",
+                heading: "Full Stack AI",
+                headingHighlight: "de la interfaz a la nube",
                 items: {
                     "01": {
-                        title: "Integración de IA y Soluciones Aplicadas",
-                        description: "Integro inteligencia artificial en sistemas que escalan. Desde modelos de ML hasta APIs de LLM, con foco en implementación práctica y resultados técnicos."
+                        title: "Experiencias web con IA aplicada",
+                        description: "Interfaces donde la IA es protagonista: copilotos, chat contextual, streaming de tokens y estados resilientes con Vue.js, React y APIs tipadas hasta el backend."
                     },
                     "02": {
-                        title: "Desarrollo Full Stack End-to-End",
-                        description: "Desarrollo soluciones completas desde frontend hasta backend. Implemento con Vue.js, React, Node.js, Python, bases de datos y APIs REST/GraphQL."
+                        title: "Backoffice e interfaces operativas con IA",
+                        description: "Herramientas internas para producto, soporte u operaciones: flujos con LLM/RAG, permisos, auditoría y paneles que ganan velocidad sin perder control ni trazabilidad."
                     },
                     "03": {
-                        title: "Due Diligence Técnico y Auditorías",
-                        description: "Audito sistemas existentes, identifico riesgos técnicos y propongo estrategias de mejora. Evaluación de stack tecnológico, integración de IA y código."
+                        title: "Mobile Full Stack AI",
+                        description: "Apps híbridas y nativas ligadas a inferencia y datos: React Native, contratos claros con APIs de IA, uso eficiente de red/batería y UX que tolera latencia y errores parciales."
                     },
                     "04": {
-                        title: "Sistemas Cloud-Native con IA (AWS/Docker/K8s)",
-                        description: "Diseño sistemas cloud-native escalables con IA integrada y los implemento. Migraciones, optimización de costos, CI/CD y estrategias de despliegue automatizado."
+                        title: "Runtime cloud-native para cargas de IA",
+                        description: "AWS, Docker y Kubernetes con CI/CD y observabilidad para RAG, embeddings e inferencia: autoescalado, límites de coste, secretos y despliegues reproducibles, no solo contenedores sueltos."
                     },
                     "05": {
-                        title: "Tech Evangelism y Cultura de Ingeniería",
-                        description: "Evangelizo buenas prácticas de ingeniería en equipos y comunidades. Capacitación técnica, code reviews y establecimiento de estándares."
+                        title: "Calidad, evaluación y gobierno de features con LLM",
+                        description: "Regresión sobre prompts, datasets de evaluación, mitigación de alucinaciones, políticas de datos y code reviews con lente de riesgo: la IA entra a producción con criterios medibles y revisables."
                     },
                     "06": {
-                        title: "Arquitectura Real-Time y Performance en Móviles",
-                        description: "Diseño arquitecturas de sistemas en tiempo real optimizadas para aplicaciones móviles. Enfoque en baja latencia, sincronización de datos, WebSockets, y optimización de rendimiento para garantizar experiencias fluidas en dispositivos móviles."
+                        title: "Tiempo real, datos y performance con IA en el camino crítico",
+                        description: "WebSockets, colas y pipelines que alimentan respuestas en vivo: sincronización, backpressure y afinación para que modelos y recuperación de contexto no rompan la latencia ni la consistencia que el usuario nota."
                     }
                 }
             },
@@ -113,6 +113,38 @@
                 heading: "Conoce mis",
                 headingHighlight: "Habilidades Técnicas y Experiencia",
                 subheading: "Más de 8 años construyendo desde el código hasta la integración de IA. Explora mi expertise y descubre cómo puedo agregar valor a tus proyectos."
+            },
+            softSkills: {
+                subtitle: "Capa humana",
+                heading: "Más allá del código:",
+                headingHighlight: "habilidades que escalan equipos",
+                intro: "Combino claridad, empatía y criterio para alinear personas, prioridades y resultados —del discovery a la entrega, sin perder el ritmo ni el tono.",
+                items: {
+                    "01": {
+                        title: "Comunicación asertiva con corazón técnico",
+                        description: "Mensajes directos, respetuosos y accionables: doy contexto, cierro ambigüedades y dejo acuerdos explícitos para que nadie adivine el plan."
+                    },
+                    "02": {
+                        title: "Orquestación de grupos y dinámica de equipo",
+                        description: "Facilito sesiones donde las voces convergen: roles claros, decisiones visibles y energía enfocada en resolver, no en repetir el mismo debate."
+                    },
+                    "03": {
+                        title: "Control de tareas y dueñez de entregas",
+                        description: "Descompongo objetivos en hitos medibles, anticipo riesgos y mantengo tableros vivos: el flujo avanza con prioridades honestas, no con heroísmo improvisado."
+                    },
+                    "04": {
+                        title: "Traducción negocio ↔ ingeniería",
+                        description: "Convierto requisitos difusos en backlog entendible y, al revés, explico trade-offs técnicos en lenguaje de impacto para que stakeholders decidan con confianza."
+                    },
+                    "05": {
+                        title: "Mentoría que multiplica talento",
+                        description: "Pairing, feedback oportuno y espacios seguros para aprender: ayudo a subir el nivel colectivo sin humillar ni microgestionar."
+                    },
+                    "06": {
+                        title: "Calma bajo presión y navegación de conflictos",
+                        description: "Cuando sube la tensión, bajo el volumen del drama: escucho primero, nombro el problema y co-diseño salidas donde todos puedan caminar."
+                    }
+                }
             },
             projects: {
                 subtitle: "Trabajos Recientes",
@@ -157,6 +189,10 @@
                 interviewCoach: {
                     title: "Interview Coach AI",
                     description: "Asistente inteligente para preparación de entrevistas técnicas y de comportamiento. Entrena respuestas, mejora narrativa profesional y eleva la confianza del candidato."
+                },
+                cvPilot: {
+                    title: "CVPilot AI",
+                    description: "Optimizador de currículum con IA que adapta tu CV a cualquier descripción de puesto en segundos."
                 }
             },
             contact: {
@@ -206,15 +242,15 @@
             },
             about: {
                 subtitle: "About Me",
-                heading: "AI Specialization",
-                headingHighlight: "& Full Stack Development",
-                body: "Over 8 years of experience combining AI specialization with full stack development. I design scalable systems with integrated AI and implement them from code to deployment. I work with Vue.js, React, Node.js, Python, ML models, LLM APIs, relational and NoSQL databases, Docker, AWS, and Kubernetes. I document AI integration patterns, design decisions, and best practices that optimize systems and generate technical value.",
+                heading: "Full Stack AI",
+                headingHighlight: "from product to production",
+                body: "Over 8 years shipping software end-to-end with AI baked into the design: experiences in Vue.js, React, and React Native, services in Node.js, Python, and Java, relational and NoSQL data, and cloud-native deployments on AWS with Docker and Kubernetes. I wire up RAG, embeddings, and LLM APIs with the same discipline as any business domain—stable contracts, observability, cost/latency under control, and documentation teams can evolve without guesswork.",
                 bullets: [
-                    "AI Integration in Systems",
-                    "End-to-End Full Stack Development",
-                    "Distributed & Cloud-Native Systems",
-                    "ML Models & LLM APIs",
-                    "Stack: Vue.js, React, Node.js, Python, AWS"
+                    "Full Stack AI: UI, APIs, and models on one delivery thread",
+                    "RAG, embeddings, LLMs, and transactional data kept coherent",
+                    "Cloud-native delivery, CI/CD, and operations with metrics and alerts",
+                    "Quality, security, and governance across the applied AI lifecycle",
+                    "Stack: Vue, React, RN, Node, Python, Java · AWS · Docker · K8s"
                 ]
             },
             resume: {
@@ -249,33 +285,33 @@
                 }
             },
             services: {
-                subtitle: "Popular Services",
-                heading: "Specialized Services",
-                headingHighlight: "Specialized Expertise",
+                subtitle: "How I deliver value",
+                heading: "Full Stack AI",
+                headingHighlight: "from UI to scalable cloud",
                 items: {
                     "01": {
-                        title: "AI Integration & Applied Solutions",
-                        description: "I integrate artificial intelligence into systems that scale. From ML models to LLM APIs, with focus on practical implementation and technical results."
+                        title: "Web experiences with applied AI",
+                        description: "Interfaces where AI is first-class: copilots, contextual chat, token streaming, and resilient state in Vue.js and React—with typed contracts all the way to the backend."
                     },
                     "02": {
-                        title: "End-to-End Full Stack Development",
-                        description: "I develop complete solutions from frontend to backend. I implement with Vue.js, React, Node.js, Python, databases, and REST/GraphQL APIs."
+                        title: "Backoffice & operational UIs powered by AI",
+                        description: "Internal tools for product, support, or ops: LLM/RAG workflows, permissions, audit trails, and dashboards that speed teams up without losing control or traceability."
                     },
                     "03": {
-                        title: "Tech Due Diligence & Audits",
-                        description: "I audit existing systems, identify technical risks, and propose improvement strategies. Technology stack, AI integration, and code evaluation."
+                        title: "Mobile Full Stack AI",
+                        description: "Hybrid and native apps wired to inference and data: React Native, clear contracts with AI APIs, efficient network/battery use, and UX that tolerates latency and partial failures."
                     },
                     "04": {
-                        title: "Cloud-Native Systems with AI (AWS/Docker/K8s)",
-                        description: "I design scalable cloud-native systems with integrated AI and implement them. Migrations, cost optimization, CI/CD, and automated deployment strategies."
+                        title: "Cloud-native runtime for AI workloads",
+                        description: "AWS, Docker, and Kubernetes with CI/CD and observability for RAG, embeddings, and inference: autoscaling, cost guardrails, secrets, and reproducible releases—not just ad-hoc containers."
                     },
                     "05": {
-                        title: "Tech Evangelism & Engineering Culture",
-                        description: "I evangelize engineering best practices in teams and communities. Technical training, code reviews, and establishment of standards."
+                        title: "Quality, evaluation & governance for LLM features",
+                        description: "Prompt regression suites, eval datasets, hallucination mitigation, data policies, and risk-aware code review—so AI ships with measurable, reviewable criteria."
                     },
                     "06": {
-                        title: "Real-Time Architecture & Mobile Performance",
-                        description: "I design real-time system architectures optimized for mobile applications. Focus on low latency, data synchronization, WebSockets, and performance optimization to ensure smooth experiences on mobile devices."
+                        title: "Real-time data paths & performance on the AI hot path",
+                        description: "WebSockets, queues, and pipelines feeding live responses: synchronization, backpressure, and tuning so models and context retrieval do not break perceived latency or consistency."
                     }
                 }
             },
@@ -284,6 +320,38 @@
                 heading: "Check out my",
                 headingHighlight: "Tech Skills & Experience",
                 subheading: "Over 8 years building from code to AI integration. Dive deeper into my expertise and discover how I can add value to your projects."
+            },
+            softSkills: {
+                subtitle: "Human stack",
+                heading: "Beyond the code:",
+                headingHighlight: "skills that scale teams",
+                intro: "I blend clarity, empathy, and judgment to align people, priorities, and outcomes—from discovery to delivery—without losing pace or tone.",
+                items: {
+                    "01": {
+                        title: "Assertive communication with a technical heart",
+                        description: "Direct, respectful, actionable messages: I add context, remove ambiguity, and leave explicit agreements so nobody has to guess the plan."
+                    },
+                    "02": {
+                        title: "Group orchestration and team dynamics",
+                        description: "I facilitate sessions where voices converge: clear roles, visible decisions, and energy focused on solving—not on replaying the same debate."
+                    },
+                    "03": {
+                        title: "Task control and delivery ownership",
+                        description: "I break goals into measurable milestones, anticipate risks, and keep boards honest: flow moves with truthful priorities, not improvised heroics."
+                    },
+                    "04": {
+                        title: "Business ↔ engineering translation",
+                        description: "I turn fuzzy requirements into a legible backlog—and explain technical trade-offs in impact language so stakeholders can decide with confidence."
+                    },
+                    "05": {
+                        title: "Mentorship that multiplies talent",
+                        description: "Pairing, timely feedback, and safe learning spaces: I help raise the collective bar without shaming or micromanaging."
+                    },
+                    "06": {
+                        title: "Calm under pressure and conflict navigation",
+                        description: "When tension rises, I lower the drama volume: listen first, name the problem, and co-design exits everyone can walk away with."
+                    }
+                }
             },
             projects: {
                 subtitle: "Latest Works",
@@ -328,6 +396,10 @@
                 interviewCoach: {
                     title: "Interview Coach AI",
                     description: "Intelligent assistant for technical and behavioral interview preparation. It trains responses, improves professional storytelling, and boosts candidate confidence."
+                },
+                cvPilot: {
+                    title: "CVPilot AI",
+                    description: "AI-powered resume optimizer that tailors your CV to any job description in seconds."
                 }
             },
             contact: {
